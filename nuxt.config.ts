@@ -12,10 +12,10 @@ export default defineNuxtConfig({
     head: {
       script: [
         {
-          src: "http://127.0.0.1:8080/loader.js",
+          src: "https://web.cmp.usercentrics.eu/ui/loader.js",
           type: "application/javascript",
         id: "usercentrics-cmp",
-        "data-settings-id": "IjaOij_6w",
+        "data-ruleset-id": "y3gXuK6uG_sUwg",
         async: true,
         },
       ],
